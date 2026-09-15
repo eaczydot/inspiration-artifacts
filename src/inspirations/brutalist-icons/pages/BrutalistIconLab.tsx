@@ -1,0 +1,6 @@
+'use client';
+import React from 'react';
+import {ArrowDownRight,Box,Command,Eye,Folder,Globe2,Grid2X2,MousePointer2,ScanLine,Search,Settings2,Triangle,Users,Wifi} from 'lucide-react';
+import './brutalist-icon-lab.css';
+const icons=[ArrowDownRight,Box,Command,Eye,Folder,Globe2,Grid2X2,MousePointer2,ScanLine,Search,Settings2,Triangle,Users,Wifi];
+export function BrutalistIconLab(){return <main className="bi-page"><header><div><span>SPECIMEN / 01</span><h1>Signal objects</h1></div><p>Reusable Lucide geometry pushed through two material treatments. The icon primitives stay swappable; the degradation lives in CSS masks, layers, and type.</p></header><section><h2>1-BIT XEROX</h2><div className="bi-grid xerox">{icons.map((Icon,i)=><article key={i}><div className="bi-noise"/><Icon strokeWidth={3}/><b>{String(i+1).padStart(2,'0')}</b></article>)}</div></section><section className="concrete-section"><h2>CUT CONCRETE</h2><div className="bi-grid concrete">{icons.slice(0,8).map((Icon,i)=><article key={i}><div className="chip"><Icon strokeWidth={2.6}/></div><span>OBJECT-{i+1}</span></article>)}</div></section><footer><span>ICON SYSTEM / 24PX</span><strong>HARD EDGES. DIRTY OUTPUT.</strong><span>MIT PRIMITIVES</span></footer></main>}
