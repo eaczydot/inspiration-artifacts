@@ -2,3 +2,5 @@
 @media(max-width:600px){.page{padding:12px}.page header{padding:20px;box-shadow:5px 5px 0 var(--ink);margin-bottom:28px}.page h1{font-size:48px}.grid{display:block;border-top:2px solid;border-right:2px solid}.card{min-height:250px;border-left:0;border-right:0}.card:hover{transform:none;box-shadow:none}.page footer{font-size:8px}}
 
 .blue{background:#3f71aa!important;color:white!important}
+
+.black{background:#050505!important;color:white!important}
