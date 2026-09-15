@@ -6,7 +6,7 @@ Source: https://www.monaco.com/product and https://www.monaco.com/
 
 - Six official product screenshots downloaded from `/pages/product/sections/{1-build-tam,2-overlay-signals,3-execute-sequences,4-capture-activity,5-track-pipeline,6-ask-monaco}.png`.
 - Homepage feature posters and product-page structure inspected on September 15, 2026.
-- Firecrawl branding/images + full-page screenshot evidence will be added when the requested credential is available.
+- Exact marketing-page tokens were rechecked from Monaco's own CSS and browser computed styles on September 15, 2026: Inter product body, Season Serif marketing display, black canvas, white text, 16/24/32/40px dominant gaps, 6/16/20/42px radii. Firecrawl was not used because this runtime cannot route the stored vault key into shell; the source CSS and full-page screenshots are preserved evidence.
 
 ## Color
 
