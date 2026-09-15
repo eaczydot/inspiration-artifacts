@@ -1,0 +1,1 @@
+import type{Meta,StoryObj}from'@storybook/nextjs-vite';import{MonacoMarketing}from'./MonacoMarketing';const meta={title:'Marketing/Monaco/Full Site',component:MonacoMarketing,parameters:{layout:'fullscreen'}}satisfies Meta<typeof MonacoMarketing>;export default meta;export const FullSite:StoryObj<typeof meta>={};

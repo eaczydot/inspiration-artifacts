@@ -1,1 +1,1 @@
-import{SourceMarketing}from'../../../../src/marketing/SourceMarketing';export default function Page(){return <SourceMarketing source='monaco'/>}
+import{MonacoMarketing}from'../../../../src/inspirations/monaco/pages/MonacoMarketing';export default function Page(){return <MonacoMarketing/>}
