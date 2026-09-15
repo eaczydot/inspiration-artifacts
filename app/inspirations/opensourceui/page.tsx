@@ -1,1 +1,1 @@
-import {CalendarCRMWorkspace} from '../../../src/inspirations/opensourceui/pages/CalendarCRMWorkspace';export default function Page(){return <CalendarCRMWorkspace/>}
+import{OpenFieldProduct}from'../../../src/inspirations/opensourceui/pages/OpenFieldProduct';export default function Page(){return <OpenFieldProduct/>}
