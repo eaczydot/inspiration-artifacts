@@ -6,7 +6,7 @@ Built from Vercel's official `with-storybook` Next.js example. Each inspiration 
 - `src/inspirations/brutalist-icons/{pages,components}`
 - `src/inspirations/opensourceui/{pages,components}`
 
-The first story is **Inspiration / Monaco / Pages / Accounts Table**: a dense dark account table with semantic badges, row selection, and interactive score reasoning/source popovers.
+Monaco is a united six-surface revenue-engine prototype: Build TAM, Overlay signals, Execute sequences, Capture activity, Track pipeline, and Ask Monaco. Each source also carries a Firecrawl-derived `DESIGN.md` when available.
 
 ```bash
 npm install
