@@ -6,3 +6,6 @@ Geist and Geist Mono, predominantly 13px text with 10px mono labels and serif ed
 
 ## Full calendar scope
 Booking Slot Calendar, Date Range Picker, Event Countdown Card, Month Picker Calendar, Week Strip Calendar. Every surface includes Preview, Setup, and How to use tabs in a shared three-column docs shell. React Day Picker owns range selection; Radix owns tabs; Lucide owns adaptable controls.
+
+## Marketing scope
+The marketing recreation follows the live homepage's narrow masthead and editorial hero, launch metrics, white docs-library canvas, category rail, component cards, and open-license close. Mobile turns metrics into a deliberate horizontal strip and stacks all five calendar cards.

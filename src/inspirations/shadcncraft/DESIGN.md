@@ -14,3 +14,6 @@ Shared sidebar and filter bar across Overview, Analytics, Campaigns, Deals, Lead
 
 ## Library mapping
 Recharts for charts, dnd-kit for cards, Lucide for controls, semantic tables/forms, Next Link routing.
+
+## Marketing scope
+The marketing recreation follows the live homepage's announcement rail, dense floating navigation, creator proof, centered AI-workflow hero, dashboard showcase, 282-block catalog, and agent-skills section. Mobile collapses the navigation while preserving its dense product proof and stacks block specimens.

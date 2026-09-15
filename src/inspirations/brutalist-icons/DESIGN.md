@@ -7,3 +7,6 @@ Paper `#ebe8de`, ink `#111`, orange `#ef4e2d`, concrete `#aaa69b`, dark concrete
 
 ## Product and marketing patterns
 Marketing is loud uppercase editorial brutalism with hard divisions. Product is a searchable Lucide specimen browser, one-bit Xerox and cut-concrete material modes, grid/list controls, detail/code view, and related objects. Lucide remains the swappable source primitive; degradation stays in CSS.
+
+## Marketing scope
+Because no external reference exists, the marketing system expands Evan's own direction into a full editorial site: manifesto hero, specimen wall, side-by-side Xerox/concrete material plates, install example, and explicit provenance. Phone layouts preserve hard borders, oversize type, two-column specimens, and horizontal ticker overflow.
