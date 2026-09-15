@@ -1,1 +1,1 @@
-import {AccountsTable} from '../../../src/inspirations/monaco/pages/AccountsTable';import '../../../src/inspirations/monaco/pages/accounts-table.css';export default function Page(){return <AccountsTable/>}
+import{MonacoCRM}from'../../../src/inspirations/monaco/pages/MonacoCRM';export default function Page(){return <MonacoCRM/>}
