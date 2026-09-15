@@ -1,4 +1,4 @@
 {
-  "framework": "storybook",
-  "buildCommand": "storybook build"
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs"
 }

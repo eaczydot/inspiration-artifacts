@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run build-storybook && rm -rf public/_storybook && cp -R storybook-static public/_storybook && next build",
     "start": "next start",
     "lint": "eslint .",
     "storybook": "storybook dev -p 6006",
