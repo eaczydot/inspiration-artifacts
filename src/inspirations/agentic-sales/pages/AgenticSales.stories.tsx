@@ -1,0 +1,1 @@
+import type{Meta,StoryObj}from'@storybook/nextjs-vite';import{AgenticSales}from'./AgenticSales';const meta={title:'Prototypes/Internal Agentic Sales',component:AgenticSales,parameters:{layout:'fullscreen'}}satisfies Meta<typeof AgenticSales>;export default meta;type S=StoryObj<typeof meta>;export const CommandCenter:S={};
